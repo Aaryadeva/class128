@@ -1,0 +1,5 @@
+To scrap exoplanet from NASA website
+1.Create virtual environment and activate it
+2.Install all libraries
+3.For libraries we will use selenium, beautiful soup, time and csv
+4.Create the scrapping file
